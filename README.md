@@ -8,7 +8,7 @@
   </tr>
   
   <tr>
-    <td><img src="https://github.com/mahirkursun/Drone-Simulator/screenshot/drone.jpg" /></td>
+    <td><img src="https://github.com/mahirkursun/Drone-Simulator/blob/main/screenshot/drone.JPG" /></td>
     <td></td>
   </tr>
   </table>
