@@ -12,6 +12,17 @@
     
   </tr>
   <tr>
-    <td colspan="1" align="center" ><h4> Screenshot fgkjjjjjjjjjjjjjjjjjjjjjjjjjjj</h4> </td>
+    <td colspan="1" align="center" >
+     <h4> Instruction Manual</h4> 
+     <h3>
+      <br> Press Play to run the simulation
+      <br> Forward  => W 
+      <br> Backward => S
+      <br> Left     => A
+      <br> Right    => D
+      <br> Down     => Shift
+      <br> Up       => Space
+     </h3>
+ </td>
   </tr>
   </table>
